@@ -1,3 +1,4 @@
+## Voch App คือแอพพลิเคชั่นสำหรับการตั้ง poll ขึ้นมาเพื่อช่วยในการตัดสินใจเรื่องต่างๆ และมีฟีเจอร์สำหรับการแชทกับเพื่อน
 ## Available Scripts
 
 In the project directory, you can run:
